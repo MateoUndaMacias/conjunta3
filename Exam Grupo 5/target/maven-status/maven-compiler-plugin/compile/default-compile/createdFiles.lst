@@ -1,0 +1,15 @@
+ec\edu\espe\exam\model\ClientWithoutDiscount.class
+ec\edu\espe\exam\view\FrmCreateShipment.class
+ec\edu\espe\exam\model\ClientDiscount.class
+ec\edu\espe\exam\controller\FileManagerShipments.class
+ec\edu\espe\exam\model\SmallPackage.class
+ec\edu\espe\exam\controller\FrmCreateShipmentController.class
+ec\edu\espe\exam\model\Shipment.class
+ec\edu\espe\exam\view\FrmCreateShipment$1.class
+ec\edu\espe\exam\controller\Exam.class
+ec\edu\espe\exam\model\Client.class
+ec\edu\espe\exam\model\DiscountStrategy.class
+ec\edu\espe\exam\model\Package.class
+ec\edu\espe\exam\model\LargePackage.class
+ec\edu\espe\exam\model\MediumPackage.class
+ec\edu\espe\exam\utils\MongoClientConnection.class

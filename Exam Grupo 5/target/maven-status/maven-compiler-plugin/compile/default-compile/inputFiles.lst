@@ -1,0 +1,14 @@
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\controller\Exam.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\controller\FileManagerShipments.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\controller\FrmCreateShipmentController.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\Client.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\ClientDiscount.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\ClientWithoutDiscount.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\DiscountStrategy.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\LargePackage.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\MediumPackage.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\Package.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\Shipment.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\model\SmallPackage.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\utils\MongoClientConnection.java
+C:\Users\G300\Downloads\ExamSolution\Exam\src\main\java\ec\edu\espe\exam\view\FrmCreateShipment.java
