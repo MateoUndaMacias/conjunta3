@@ -19,7 +19,7 @@ public class MongoClientConnection {
     private MongoDatabase database;
 
     private MongoClientConnection() {
-        String connectionString = "mongodb+srv://neolukk:neolukk@cluster0.gj7cw6m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+        String connectionString = "mongodb+srv://mjunda1:MateoUndaJM05@cluster0.7yle2fx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
         ServerApi serverApi = ServerApi.builder()
                 .version(ServerApiVersion.V1)
@@ -31,7 +31,7 @@ public class MongoClientConnection {
                 .build();
 
         mongoClient = MongoClients.create(settings);
-        database = mongoClient.getDatabase("OOP");
+        database = mongoClient.getDatabase("ExamData");
     }
 
     public static MongoClientConnection getInstance() {
